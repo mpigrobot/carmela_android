@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Common -->		
+    
+    <!-- MainActivity -->
+    
+    <!-- TouchKey -->
+    <string-array name="btn_state_array">
+	    <item>停&#x0020;止</item>
+	    <item>前&#x0020;进</item>
+	    <item>后&#x0020;退</item>
+	    <item>左&#x0020;转</item>
+	    <item>右&#x0020;转</item>
+    </string-array>
+    
+    <!-- Accelerometer -->  
+     
+    <!-- Hand -->
+
+	
+</resources>

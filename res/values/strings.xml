@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Common -->
+    <string name="app_name">Hug Carmela</string>
+    <string name="app_mode">模&#x0020;式</string>
+    <string name="app_exit">退&#x0020;出</string>
+    <string name="app_cmd">配&#x0020;置</string>
+    <string name="app_service">服&#x0020;务</string>
+    <string name="app_orientation">切&#x0020;屏</string>
+    <string name="connect_e01">没有找到蓝牙适配器！</string>
+    <string name="connect_e02">请先打开蓝牙！</string>
+    <string name="connect_e03">没有找到socket！</string>
+    <string name="try_connect">正在尝试连接远程蓝牙！</string>
+    <string name="connect_succeed">连接成功,可以进行操控了！</string>
+    <string name="mode01">模式一：触摸按键控制</string>
+    <string name="mode02">模式二：重力感应控制</string>
+    <string name="mode03">模式三：手绘轨迹控制</string>
+    <string name="mode11">模式一</string>
+    <string name="mode12">模式二</string>
+    <string name="mode13">模式三</string>
+    <string name="btnS2">停&#x0020;止</string>
+
+    <!-- MainActivity -->
+    <string name="txt01">蓝牙控制智能小车</string>
+    <string name="txt02">史刚刚  @ MPIG</string>
+    <string name="txt03">请选择小车控制模式：</string>
+    <string name="btn_e01">跳转模式一失败！</string>
+    <string name="btn_e02">跳转模式二失败！</string>
+    <string name="btn_e03">跳转模式三失败！</string>
+    <string name="confirm">确&#x0020;认</string>
+    <string name="confirm_q">确定要退出程序吗？</string>
+    <string name="yes">确&#x0020;定</string>
+    <string name="exit">退&#x0020;出</string>
+    <string name="no">取&#x0020;消</string>
+    <string name="cmd_no_config">请先配置指令，且不能为空！</string>
+    <string name="no_bt_pair">没有配对过蓝牙，请先进行蓝牙配对！</string>
+    <string name="bt_no_pair">当前蓝牙未配对！</string>
+
+    <!-- TouchKey -->
+    <string name="btnS">停止</string>
+    <string name="btnB">后退</string>
+    <string name="btnL">左转</string>
+    <string name="btnF">前进</string>
+    <string name="btnR">右转</string>
+
+    <!-- Accelerometer -->
+    <string name="btn_pause">开&#x0020;始</string>
+    <string name="btn_pause01">暂&#x0020;停</string>
+    <string name="btn_pause02">继&#x0020;续</string>
+    <string name="txt_x">X轴重力加速度：</string>
+    <string name="txt_y">Y轴重力加速度：</string>
+    <string name="txt_z">Z轴重力加速度：</string>
+    <string name="circle">方向盘</string>
+
+    <!-- Hand -->
+	<string name="path">路径图</string>
+	<string name="btn_use">使&#x0020;用</string>
+	<string name="btn_draw">绘&#x0020;图</string>
+	<string name="btn_reset">清&#x0020;空</string>
+	
+	<!-- MyBTSearch -->
+	<string name="title_bt_connection">蓝牙连接</string>
+	<string name="bt_state">蓝牙状态：</string>
+	<string name="bluetooth_enabled">打&#x0020;开</string>
+	<string name="bluetooth_disabled">关&#x0020;闭</string>
+	<string name="button_enable">打&#x0020;开</string>
+	<string name="button_disable">关&#x0020;闭</string>
+	<string name="button_search">搜索蓝牙</string>
+	<string name="button_cancel">停止搜索</string>
+	<string name="item_name_prefix">设备名：</string>
+	<string name="no_device_name">&#60;无设备名&#62;</string>
+	<string name="item_address_prefix">地址：</string>
+	<string name="No_data">无任何蓝牙设备</string>
+	<string name="confirm_q_bt">确定要配对连接该蓝牙设备吗？</string>
+	<string name="bt_connection">连&#x0020;接</string>
+	<string name="bt_bond_bonded">已配对</string>
+	<string name="bt_bond_none">未配对</string>
+	<string name="item_pair_state">状态：</string>
+	
+	
+	<!-- settingcmd -->
+	<string name="title_setting_cmd">配置控制命令</string>
+	<string name="set_btnS">停止：</string>
+    <string name="set_btnB">后退：</string>
+    <string name="set_btnL">左转：</string>
+    <string name="set_btnF">前进：</string>
+    <string name="set_btnR">右转：</string>
+    <string name="set_check">记住本次设置。</string>
+	
+</resources>
